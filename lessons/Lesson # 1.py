@@ -36,8 +36,8 @@ class Human:
 # test()
 
 # экземпляр \ обьект класса
-beka=Human('beka',20)
-beka1=Human('beka',21)
+beka = Human('beka',20)
+beka1 =Human('beka',21)
 beka2=Human('beka',22)
 beka3=Human('beka',69)
 print(beka,beka2,beka3,beka1)
