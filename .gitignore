@@ -1,5 +1,5 @@
 .idea
 .venv
-new 1.py
+new1.py
 test\new.py
 __pycache__\

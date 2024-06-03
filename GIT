@@ -13,5 +13,5 @@ git push origin master\ main - отправка в гитХАБ
 
 полезные команды
 git status - на каком статусе
-git rm --cashed: удаляет файлы
-git rm --cashed -r: удаляет папку
+git rm --cached: удаляет файлы
+git rm --cached -r: удаляет папку
