@@ -12,6 +12,6 @@ git push origin master\ main - отправка в гитХАБ
 2) важные коды (боты Телеграмм)
 
 полезные команды
-git status -
+git status - на каком статусе
 git rm --cashed: удаляет файлы
 git rm --cashed -r: удаляет папку
