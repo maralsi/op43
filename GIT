@@ -14,4 +14,12 @@ git push origin master\ main - отправка в гитХАБ
 полезные команды
 git status - на каком статусе
 git rm --cached: удаляет файлы
-git rm --cacrhed -r: удаляет папку
+git rm --cached -r: удаляет папку
+
+git clone url - ссылка
+
+git remote remove origin
+
+git ??
+
+
