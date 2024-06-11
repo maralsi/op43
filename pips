@@ -1,0 +1,6 @@
+
+(python3 python py py3) -m venv name
+
+pip install colorama,art
+pip freeze
+pip list
