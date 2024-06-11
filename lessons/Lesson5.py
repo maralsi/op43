@@ -12,7 +12,7 @@ print(pi)
 print(e)
 # print(sin)
 
-from lesson1 import Big0
+from Lesson1 import Big0
 f=Big0()
 
 if __name__ == '__main__':
@@ -20,7 +20,10 @@ if __name__ == '__main__':
     print(pi)
     print(pi)
 
-import lesson
+from lessons import lesson3
+
+lesson3.Big0
+
 
 
 

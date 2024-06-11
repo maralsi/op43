@@ -2,22 +2,22 @@
 # # 4 наследование полиморфизм
 # #
 #
-# class Big0:
-#     def __init__(self): ...
-#
-#     def res(self):
-#         print ('метод класса 1')
-#
-# сlass Big02(Big0):
-#     def __init__(self): ...
-#     def res(self):
-#         print('метод класса 2')
-#         super().res()
-#
-# a=Big0()
-# b=Big01()
-# a.res()
-# b.res()
+class Big0:
+    def __init__(self): ...
+
+    def res(self):
+        print ('метод класса 1')
+
+сlass Big02(Big0):
+    def __init__(self): ...
+    def res(self):
+        print('метод класса 2')
+        super().res()
+
+a=Big0()
+b=Big01()
+a.res()
+b.res()
 
 # уровни доступа, всего = 3
 # 1 - публичный
